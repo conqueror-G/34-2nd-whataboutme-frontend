@@ -12,6 +12,17 @@
 
 <br>
 
+## Front-end
+| 역할 | 이름 |
+|---|:---:|
+| Nav, Main, Footer | 김민석 |
+| kakao social login 구현, kakao map 구현, Carousel 구현 | 김민석|
+| List | 하상원 |
+| GPS 구현, 필터링 구현, kakao map 구현 | 하상원 |
+| Detail | 안유주 |
+| Carousel 구현, kakao map 구현 | 안유주 |
+
+
 ## 필수구현 기능
 > ### 1. Nav
   - REST-API를 사용한 소셜 로그인
